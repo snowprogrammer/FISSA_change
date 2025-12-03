@@ -1,0 +1,20 @@
+module test;
+reg clk;
+reg [3:0] data1=4'b1001;
+reg [3:0] data2=4'bxxxx;
+reg result=1'b0;
+
+    initial // initial block executes only once
+        begin
+            clk = 1'b0;
+            forever #3 clk = ~clk;
+        end
+
+always @(posedge clk) begin 
+if (data1 >= 0) begin
+    $display("crash");
+    $stop;
+end
+end
+
+endmodule

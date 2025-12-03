@@ -1,0 +1,59 @@
+/home/zhao/mo_project/MMCME2_ADV.v {1 {vlog -work work -vopt -stats=none /home/zhao/mo_project/MMCME2_ADV.v
+QuestaSim-64 vlog 10.6e Compiler 2018.06 Jun 22 2018
+-- Compiling module MMCME2_ADV
+
+Top level modules:
+	MMCME2_ADV
+
+} {} {}} /home/zhao/mo_project/FDPE.v {1 {vlog -work work -vopt -stats=none /home/zhao/mo_project/FDPE.v
+QuestaSim-64 vlog 10.6e Compiler 2018.06 Jun 22 2018
+-- Compiling module FDPE
+
+Top level modules:
+	FDPE
+
+} {} {}} /home/zhao/mo_project/BUFG.v {1 {vlog -work work -vopt -stats=none /home/zhao/mo_project/BUFG.v
+QuestaSim-64 vlog 10.6e Compiler 2018.06 Jun 22 2018
+-- Compiling module BUFG
+
+Top level modules:
+	BUFG
+
+} {} {}} /home/zhao/mo_project/digilent_basys3.v {1 {vlog -work work -vopt -stats=none /home/zhao/mo_project/digilent_basys3.v
+QuestaSim-64 vlog 10.6e Compiler 2018.06 Jun 22 2018
+-- Compiling module digilent_basys3
+
+Top level modules:
+	digilent_basys3
+
+} {} {}} /home/zhao/mo_project/glbl.v {1 {vlog -work work -vopt -stats=none /home/zhao/mo_project/glbl.v
+QuestaSim-64 vlog 10.6e Compiler 2018.06 Jun 22 2018
+-- Compiling module glbl
+
+Top level modules:
+	glbl
+
+} {} {}} /home/zhao/mo_project/digilent_tb.v {1 {vlog -work work -vopt -stats=none /home/zhao/mo_project/digilent_tb.v
+QuestaSim-64 vlog 10.6e Compiler 2018.06 Jun 22 2018
+-- Compiling module digilent_tb
+
+Top level modules:
+	digilent_tb
+
+} {} {}} /home/zhao/mo_project/VexRiscv.v {1 {vlog -work work -vopt -stats=none /home/zhao/mo_project/VexRiscv.v
+QuestaSim-64 vlog 10.6e Compiler 2018.06 Jun 22 2018
+-- Compiling module VexRiscv
+-- Compiling module DataCache
+-- Compiling module InstructionCache
+
+Top level modules:
+	VexRiscv
+
+} {} {}} /home/zhao/mo_project/FDCE.v {1 {vlog -work work -vopt -stats=none /home/zhao/mo_project/FDCE.v
+QuestaSim-64 vlog 10.6e Compiler 2018.06 Jun 22 2018
+-- Compiling module FDCE
+
+Top level modules:
+	FDCE
+
+} {} {}}

@@ -1,0 +1,50 @@
+{
+    "name_simulator": "modelsim",
+    "path_tcl_generation": "/home/zhao/FISSA-main/",
+    "path_files_sim": "/home/zhao/FISSA-main/simu_files/",
+    "path_generated_sim": "/home/zhao/FISSA-main/simu_files/generated_simulations/",
+    "path_results_sim": "/home/zhao/FISSA-main/simu_files/results_simulations/",
+
+    "path_simulation": [
+        "/home/zhao/mo_project/",
+        "__code",
+        "/",
+        "__code"
+    ],
+
+    "prot": "wop",
+    "version": 1,
+    "name_reg_file_ext_wo_protect": "/faulted-reg.yaml",
+
+    "codes": [
+        "total"
+    ],
+
+    "name_results": {
+        "total": "total"
+    },
+
+    "threat_model": [
+        "single_bitflip_spatial"
+    ],
+
+    "multi_fault_injection": 2,
+    "avoid_register": [
+    ],
+    "avoid_log_registers": [
+    ],
+    "log_registers": [],
+    "fenetre_tir": {
+        "total": [
+            [9550, 12902]
+        ]
+    },
+    "cycle_ref": 1738,
+    "cpu_period": 8,
+    "batch_sim": {
+        "total": 4000
+    },
+    "multi_res_files": {
+        "total": 2
+    }
+}

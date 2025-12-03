@@ -1,0 +1,10 @@
+- sim:/digilent_tb/UUT/ack_s
+- sim:/digilent_tb/UUT/builder_basesoc_state_s
+- sim:/digilent_tb/UUT/builder_slave_sel_r_s
+- sim:/digilent_tb/UUT/main_basesoc_interface0_ram_bus_ack_s
+- sim:/digilent_tb/UUT/main_basesoc_interface1_ram_bus_ack_s
+- sim:/digilent_tb/UUT/main_basesoc_ram_bus_ack_s
+- sim:/digilent_tb/UUT/sel_s
+- sim:/digilent_tb/UUT/builder_done
+- sim:/digilent_tb/UUT/builder_csr_bankarray_sel_r
+- sim:/digilent_tb/UUT/builder_grant

@@ -1,0 +1,335 @@
+m255
+K4
+z2
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/zhao/mo_project
+T_opt
+!s110 1760631961
+VDYgm38NTJ_2?l4D`E95QC3
+Z1 04 11 4 work digilent_tb fast 0
+Z2 04 4 4 work glbl fast 0
+=1-000ae431a4f1-68f11c99-bc4bc-2e212
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;10.6e;65
+R0
+T_opt1
+!s110 1760631962
+V_DKZ;lo9<b4LF1E@;_z]o3
+R1
+R2
+=1-000ae431a4f1-68f11c9a-af09b-2e228
+R3
+R4
+n@_opt1
+R5
+R0
+T_opt2
+!s110 1760645917
+Vil@a:KO<37nB2bZ8FTkh^2
+R1
+R2
+=1-000ae431a4f1-68f1531d-d9a9-97b
+R3
+R4
+n@_opt2
+R5
+R0
+T_opt3
+!s110 1760636214
+VH3n;O8^]9993l@^U]C>E@3
+R1
+R2
+=1-000ae431a4f1-68f12d36-b78c2-31f9e
+R3
+R4
+n@_opt3
+R5
+R0
+T_opt4
+!s110 1760636215
+VBUl8Mc0DXTcTF@zPYS>W^1
+R1
+R2
+=1-000ae431a4f1-68f12d37-91d6d-31fb4
+R3
+R4
+n@_opt4
+R5
+R0
+T_opt5
+!s110 1760458500
+VDdPML4>PhIN<LWI]4o@1Z0
+R1
+R2
+=1-000ae431a4f1-68ee7704-a9e62-87aa
+R3
+R4
+n@_opt5
+R5
+R0
+T_opt6
+!s110 1760941658
+VICZHRM@SJ1;VVSKAcQSMU1
+R1
+R2
+=1-000ae431a4f1-68f5d65a-1e633-8d9
+o-quiet -auto_acc_if_foreign -work work +acc#
+R4
+n@_opt6
+R5
+T_opt7
+!s110 1760431010
+VI6>zQ0Tok0e>H?J9XR8`_0
+R1
+R2
+=1-000ae431a4f1-68ee0ba2-57b56-e75
+R3
+R4
+n@_opt7
+R5
+R0
+T_opt8
+!s110 1760431011
+VP<eXS?W1BOTbZB_A:<8CD1
+R1
+R2
+=1-000ae431a4f1-68ee0ba3-2327e-e91
+R3
+R4
+n@_opt8
+R5
+R0
+T_opt9
+!s110 1760431012
+VmJD0Ufl@BNh0K_ch2e_T[1
+R1
+R2
+=1-000ae431a4f1-68ee0ba3-a90e1-e9a
+R3
+R4
+n@_opt9
+R5
+R0
+vBUFG
+Z6 !s110 1760631953
+!i10b 0
+!s100 XW1;P^XP[:PBm_`EHk]`i2
+IM62GV89d6ld_;E913Ph]P3
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1700746082
+8/home/zhao/mo_project/BUFG.v
+F/home/zhao/mo_project/BUFG.v
+L0 27
+Z8 OL;L;10.6e;65
+r1
+!s85 0
+31
+Z9 !s108 1760631953.000000
+!s107 /home/zhao/mo_project/BUFG.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/zhao/mo_project/BUFG.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@b@u@f@g
+vDataCache
+R6
+!i10b 1
+!s100 bI1A7=IJ]=][EkjAYJPoW3
+ICKC<0bHTj6>79iVkl<1jl1
+R7
+R0
+Z11 w1714650074
+Z12 8/home/zhao/mo_project/VexRiscv.v
+Z13 F/home/zhao/mo_project/VexRiscv.v
+L0 5142
+R8
+r1
+!s85 0
+31
+R9
+Z14 !s107 /home/zhao/mo_project/VexRiscv.v|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/zhao/mo_project/VexRiscv.v|
+!i113 0
+R10
+R4
+n@data@cache
+vdigilent_basys3
+R6
+!i10b 1
+!s100 XD24LW_NC27bk7c><ifYC3
+I4E<;VcY1^]GY3^kGzOkFQ3
+R7
+R0
+w1760256696
+8/home/zhao/mo_project/digilent_basys3.v
+F/home/zhao/mo_project/digilent_basys3.v
+L0 20
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/zhao/mo_project/digilent_basys3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/zhao/mo_project/digilent_basys3.v|
+!i113 0
+R10
+R4
+vdigilent_tb
+R6
+!i10b 1
+!s100 ?G2medYFB4_Y6b70IcimJ3
+IVKfiQ=^APgzeRUYbQ=l?00
+R7
+R0
+w1700734976
+8/home/zhao/mo_project/digilent_tb.v
+F/home/zhao/mo_project/digilent_tb.v
+L0 22
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/zhao/mo_project/digilent_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/zhao/mo_project/digilent_tb.v|
+!i113 0
+R10
+R4
+vFDCE
+R6
+!i10b 1
+!s100 GM`cY?cF@N6ZO8RDWEQeO3
+IgGRRDF7M_Qj]5AgFGX`le0
+R7
+R0
+w1700735248
+8/home/zhao/mo_project/FDCE.v
+F/home/zhao/mo_project/FDCE.v
+Z16 L0 28
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/zhao/mo_project/FDCE.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/zhao/mo_project/FDCE.v|
+!i113 0
+R10
+R4
+n@f@d@c@e
+vFDPE
+R6
+!i10b 1
+!s100 fcf6Jc3<DO<Z5FM?m;mSW3
+I9KK7nmadoBK>?cG;C@^UR2
+R7
+R0
+w1700746268
+8/home/zhao/mo_project/FDPE.v
+F/home/zhao/mo_project/FDPE.v
+R16
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/zhao/mo_project/FDPE.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/zhao/mo_project/FDPE.v|
+!i113 0
+R10
+R4
+n@f@d@p@e
+vglbl
+R6
+!i10b 1
+!s100 aGX4R92RO3^bD43HL2j:J2
+Ih3OU5mN]k=AB_1F3[4JAk3
+R7
+R0
+w1700734928
+8/home/zhao/mo_project/glbl.v
+F/home/zhao/mo_project/glbl.v
+L0 6
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/zhao/mo_project/glbl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/zhao/mo_project/glbl.v|
+!i113 0
+R10
+R4
+vInstructionCache
+R6
+!i10b 1
+!s100 b:L?9oDXzkH8<2Nj2K^gg1
+IPlgk>k[?WjZ^A54Y8U3Ea2
+R7
+R0
+R11
+R12
+R13
+L0 5983
+R8
+r1
+!s85 0
+31
+R9
+R14
+R15
+!i113 0
+R10
+R4
+n@instruction@cache
+vMMCME2_ADV
+R6
+!i10b 1
+!s100 jLQ12I<<cMHX5[mN:OCA81
+I3_41C3c3_DhS[[QP?NkW20
+R7
+R0
+w1700735520
+8/home/zhao/mo_project/MMCME2_ADV.v
+F/home/zhao/mo_project/MMCME2_ADV.v
+L0 123
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/zhao/mo_project/MMCME2_ADV.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/zhao/mo_project/MMCME2_ADV.v|
+!i113 0
+R10
+R4
+n@m@m@c@m@e2_@a@d@v
+vVexRiscv
+R6
+!i10b 1
+!s100 MLFL?L7HM_^AFYK5;SY>S0
+IS<8bcN;>1HG=W4AcHOD@Y1
+R7
+R0
+R11
+R12
+R13
+L0 7
+R8
+r1
+!s85 0
+31
+R9
+R14
+R15
+!i113 0
+R10
+R4
+n@vex@riscv

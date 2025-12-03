@@ -1,0 +1,66 @@
+C:/Users/13383/Desktop/mo_project/BUFG.v {2 {vlog -work work -stats=none C:/Users/13383/Desktop/mo_project/BUFG.v
+Model Technology ModelSim DE-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+Model Technology ModelSim DE-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+** Warning: (vlog-6) -- Waiting for lock by "13383@ZHAO, pid = 16972
+". Lockfile is "C:/Users/13383/Desktop/mo_project/work/_lock".
+-- Compiling module VexRiscv
+-- Compiling module DataCache
+-- Compiling module InstructionCache
+
+Top level modules:
+	VexRiscv
+-- Compiling module BUFG
+
+Top level modules:
+	BUFG
+
+} {} {}} C:/Users/13383/Desktop/mo_project/digilent_basys3.v {1 {vlog -work work -stats=none C:/Users/13383/Desktop/mo_project/digilent_basys3.v
+Model Technology ModelSim DE-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module digilent_basys3
+
+Top level modules:
+	digilent_basys3
+
+} {} {}} C:/Users/13383/Desktop/mo_project/glbl.v {1 {vlog -work work -stats=none C:/Users/13383/Desktop/mo_project/glbl.v
+Model Technology ModelSim DE-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module glbl
+
+Top level modules:
+	glbl
+
+} {} {}} C:/Users/13383/Desktop/mo_project/digilent_tb.v {1 {vlog -work work -stats=none C:/Users/13383/Desktop/mo_project/digilent_tb.v
+Model Technology ModelSim DE-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module digilent_tb
+
+Top level modules:
+	digilent_tb
+
+} {} {}} C:/Users/13383/Desktop/mo_project/FDCE.v {1 {vlog -work work -stats=none C:/Users/13383/Desktop/mo_project/FDCE.v
+Model Technology ModelSim DE-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module FDCE
+
+Top level modules:
+	FDCE
+
+} {} {}} C:/Users/13383/Desktop/mo_project/VexRiscv.v {1 {vlog -work work -stats=none C:/Users/13383/Desktop/mo_project/digilent_basys3.v
+Model Technology ModelSim DE-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module digilent_basys3
+
+Top level modules:
+	digilent_basys3
+
+} {} {}} C:/Users/13383/Desktop/mo_project/MMCME2_ADV.v {1 {vlog -work work -stats=none C:/Users/13383/Desktop/mo_project/MMCME2_ADV.v
+Model Technology ModelSim DE-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module MMCME2_ADV
+
+Top level modules:
+	MMCME2_ADV
+
+} {} {}} C:/Users/13383/Desktop/mo_project/FDPE.v {1 {vlog -work work -stats=none C:/Users/13383/Desktop/mo_project/FDPE.v
+Model Technology ModelSim DE-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module FDPE
+
+Top level modules:
+	FDPE
+
+} {} {}}

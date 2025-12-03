@@ -1,0 +1,133 @@
+####
+## @Author : William PENSEC
+## @Version : 1.2
+## @DateDebut : 20 janvier 2023
+## @DateVersion : 13 février 2023
+## @Description : Fichier de stockage pour tous les registres du processeur à fauter - version sans protection
+####
+
+
+### YAML configuration file for simulator ###
+---
+ ## Load All Unit
+TOTAL:
+  -
+
+      name: sim:/digilent_tb/UUT/builder_basesoc_state
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/builder_basesoc_state_double
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/builder_basesoc_state_d
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/builder_done
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/builder_csr_bankarray_sel_r
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/builder_grant
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/builder_grant_d
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/builder_grant_double
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/main_basesoc_interface0_ram_bus_ack
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/main_basesoc_interface0_ram_bus_ack_double
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/main_basesoc_interface0_ram_bus_ack_d
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/main_basesoc_interface1_ram_bus_ack
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/main_basesoc_interface1_ram_bus_ack_double
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/main_basesoc_interface1_ram_bus_ack_d
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/main_basesoc_ram_bus_ack
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/main_basesoc_ram_bus_ack_double
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/main_basesoc_ram_bus_ack_d
+
+      width: 1
+
+  -
+
+      name: sim:/digilent_tb/UUT/builder_slave_sel_r
+
+      width: 2
+
+  -
+
+      name: sim:/digilent_tb/UUT/builder_slave_sel_r_double
+
+      width: 2
+
+  -
+
+      name: sim:/digilent_tb/UUT/builder_slave_sel_r_d
+
+      width: 2
+...
