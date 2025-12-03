@@ -1,15 +1,13 @@
 import os
 
 # 指定路径tcl
-path = "/home/zhao/FISSA-main/simu_files/generated_simulations/total/total_wop_1_single_bitflip_spatial_2"
+path = "C:/Users/13383/Desktop/FISSA-main/simu_files/generated_simulations/total/total_wop_1_single_bitflip_spatial_2"
+# total_wop_1_bitflip_1
+# total_wop_1_multi_bitflip_reg_2
 # total_wop_1_multi_bitflip_reg_multi_2
 # total_wop_1_single_bitflip_spatial_2
-# total_wop_1_bitflip_1
-# total_wop_1_multi_bitflip_reg_2 
-
-
 # 文件数量
-n = 27 # 你可以根据需要修改这个值
+n = 467  # 你可以根据需要修改这个值
 
 for i in range(1, n+1):
     # 创建文件名
