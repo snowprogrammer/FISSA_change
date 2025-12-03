@@ -45,8 +45,8 @@ for filename in os.listdir(path):
                                 crash += 1
                             elif status_end == 2:
                                 detect_hw += 1
-                            #elif status_end == 3:
-                            elif data[key]["sram/sr4"] == 3:
+                            elif status_end == 3:
+                            #elif data[key]["sram/sr4"] == 3:
                                 detect_sw_c += 1
                             elif status_end == 4:
                                 detect_sw_n += 1
@@ -164,3 +164,4 @@ with open(f"{folder_path}/{model_name}/analysis.json", 'w') as f:
         "results": results
         #"change condition": key_list
     }, f, indent=4)
+
